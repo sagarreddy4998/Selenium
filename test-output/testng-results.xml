@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-26T17:26:50 IST" name="Default suite" finished-at="2024-11-26T17:27:10 IST" duration-ms="20185">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T17:26:50 IST" name="Default test" finished-at="2024-11-26T17:27:10 IST" duration-ms="20185">
+      <class name="sele.nium.Tabless">
+        <test-method is-config="true" signature="setup()[pri:0, instance:sele.nium.Tabless@3e84448c]" started-at="2024-11-26T17:26:50 IST" name="setup" finished-at="2024-11-26T17:27:05 IST" duration-ms="14479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="gg()[pri:0, instance:sele.nium.Tabless@3e84448c]" started-at="2024-11-26T17:27:05 IST" name="gg" finished-at="2024-11-26T17:27:10 IST" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gg -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:sele.nium.Tabless@3e84448c]" started-at="2024-11-26T17:27:10 IST" name="afterMethod" finished-at="2024-11-26T17:27:10 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- sele.nium.Tabless -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
