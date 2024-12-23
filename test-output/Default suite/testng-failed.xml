@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="sele.nium.Dropdownn">
+      <class name="sele.nium.ExcellTest">
         <methods>
-          <include name="setup"/>
-          <include name="waitss"/>
+          <include name="mainTest"/>
           <include name="teardown"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- sele.nium.Dropdownn -->
+      </class> <!-- sele.nium.ExcellTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
